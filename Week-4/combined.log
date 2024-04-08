@@ -1,0 +1,14 @@
+{"level":"info","message":"Parameters 786 and 787 received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 786 and 0 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 786 and 787 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 788 and 787 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 788 and 787 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 85 and 10 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 85 and 10 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 85 and 10 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 85 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 100 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 100 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 100 and 100 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 100 and 100 received for addition","service":"calculate-service"}
