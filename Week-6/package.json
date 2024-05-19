@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "server": "^1.0.39",
+    "winston": "^3.13.0"
+  }
+}

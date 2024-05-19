@@ -1,0 +1,28 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    image: tusharlatherr/node-web-app
+    ports:
+      - '3040:3040'
+    environment:
+      - PORT=3040
+    container_name: my-app4
+    networks:
+      - my-net
+
+  app1:
+    build: .
+    image: tusharlatherr/node-web-app
+    ports:
+      - '3040:3040'
+    environment:
+      - PORT=3040
+    container_name: my-app3
+    networks:
+      - my-net
+
+
+networks:
+  my-net:
+    driver: bridge
