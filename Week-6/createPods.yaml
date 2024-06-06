@@ -6,7 +6,7 @@ metadata:
     tier: frontend
 spec:
   containers:
-    - image: alamfaisal654/node-web-app:1.1.1
+    - image: tusharlatherr/nodewebapp:1.1.1
       name: nodewebapp
       ports:
         - containerPort: 3040
